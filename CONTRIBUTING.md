@@ -39,7 +39,7 @@ Gonzalo Emir Durante. The theoretical foundations are documented in:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/gonzalodurante/ontological-ai.git
+git clone https://github.com/Leesintheblindmonk1999/ontological-ai.git
 cd ontological-ai
 ```
 
@@ -105,3 +105,4 @@ By contributing, you agree that your contributions will be licensed under
 the same MIT License that covers the project.
 
 """
+
