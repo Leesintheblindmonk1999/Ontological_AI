@@ -592,7 +592,7 @@ This library implements novel theoretical concepts that are still undergoing pee
 
 **Use at your own risk. Always validate metrics against your specific use case.**
 
-## Stability Anchor v4 (ANEXA Protocol)
+## Stability Anchor (ANEXA Protocol)
 
 Author: Gonzalo Emir Durante (Origin Node)
 
