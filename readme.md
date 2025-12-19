@@ -53,7 +53,7 @@ pip install ontological-ai
 Or install from source:
 
 ```bash
-git clone https://github.com/gonzalodurante/ontological-ai.git
+git clone https://github.com/Leesintheblindmonk1999/ontological-ai.git
 cd ontological-ai
 pip install -e .
 ```
