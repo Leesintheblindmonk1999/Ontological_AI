@@ -91,7 +91,7 @@ Test: Add coverage for W
 ### Questions?
 
 Open an issue or reach out via:
-- GitHub Issues: https://github.com/gonzalodurante/ontological-ai/issues
+- GitHub Issues: https://github.com/Leesintheblindmonk1999/ontological-ai/issues
 - LinkedIn: https://www.linkedin.com/in/gonzalo-emir-8178b6277/
 - buymeacoffe: https://buymeacoffee.com/thaliondris
 ## Code of Conduct
@@ -103,4 +103,5 @@ the science of AI stability.
 
 By contributing, you agree that your contributions will be licensed under
 the same MIT License that covers the project.
+
 """
