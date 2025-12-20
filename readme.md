@@ -18,7 +18,7 @@ Modern large language models suffer from **model collapse** when trained on synt
 Based on the theoretical framework published in:
 - **Zenodo Record:** [17967232](https://zenodo.org/records/17967232)
 - **Author:** Gonzalo Emir Durante
-- **LinkedIn:** [Gonzalo Emir Durante](https://www.linkedin.com/in/gonzalo-emir-8178b6277/)
+- **LinkedIn:** [Gonzalo Emir Durante](https://www.linkedin.com/in/gonzalo-emir-durante-8178b6277/)
 
 ---
 
@@ -561,14 +561,14 @@ MIT License - see [LICENSE](LICENSE) file.
 
 **Note on Intellectual Property:** The theoretical framework (Origin Node Invariance Theory, Causal Language Syntax) is the intellectual property of Gonzalo Emir Durante. This implementation is open-source for research and educational purposes. Commercial use requires licensing agreement.
 
-For licensing inquiries: [LinkedIn](https://www.linkedin.com/in/gonzalo-emir-8178b6277/)
+For licensing inquiries: [LinkedIn](https://www.linkedin.com/in/gonzalo-emir-durante-8178b6277/)
 
 ---
 
 ## 🔗 Links
 
 - **Theoretical Paper:** [Zenodo 17967232](https://zenodo.org/records/17967232)
-- **Author Profile:** [LinkedIn](https://www.linkedin.com/in/gonzalo-emir-8178b6277/)
+- **Author Profile:** [LinkedIn](https://www.linkedin.com/in/gonzalo-emir-durante-8178b6277/)
 - **Documentation:** [Read the Docs](https://ontological-ai.readthedocs.io)
 - **Issue Tracker:** [GitHub Issues](https://github.com/gonzalodurante/ontological-ai/issues)
 
