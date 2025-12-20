@@ -32,6 +32,7 @@ for research and educational purposes, commercial use of the underlying
 theoretical framework may require licensing agreement.
 
 For commercial licensing inquiries, contact:
-LinkedIn: https://www.linkedin.com/in/gonzalo-emir-8178b6277/
+LinkedIn: https://www.linkedin.com/in/gonzalo-emir-durante-8178b6277//
 Zenodo: https://zenodo.org/records/17967232
+
 """
