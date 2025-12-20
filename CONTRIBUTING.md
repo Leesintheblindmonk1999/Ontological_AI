@@ -9,7 +9,7 @@ This library implements the Origin Node Invariance Theory developed by
 Gonzalo Emir Durante. The theoretical foundations are documented in:
 
 - Zenodo Record: https://zenodo.org/records/17967232
-- LinkedIn: https://www.linkedin.com/in/gonzalo-emir-8178b6277/
+- LinkedIn: https://www.linkedin.com/in/gonzalo-emir-durante-8178b6277/
 
 ## How to Contribute
 
@@ -105,4 +105,5 @@ By contributing, you agree that your contributions will be licensed under
 the same MIT License that covers the project.
 
 """
+
 
